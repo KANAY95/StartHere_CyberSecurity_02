@@ -1,12 +1,12 @@
 # **Pixel Manipulation for Image Encryption**
 
-### Description
+## Description
 A simple image encryption tool using pixel manipulation. You can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. Allow users to encrypt and decrypt images.
 
-### Features 
+## Features 
 -Encrypt images by performing basic operations such as swapping pixel values or applying mathematical transformations.
 -Decrypt the encrypted images to retrieve the original content.
 
-### Requirements
+## Requirements
 -Python 3.x
 -PIL (Pillow)
