@@ -8,5 +8,5 @@ A simple image encryption tool using pixel manipulation. You can perform operati
 -Decrypt the encrypted images to retrieve the original content.
 
 ## Requirements
--Python 3.x
+-Python 3.x<br>
 -PIL (Pillow)
